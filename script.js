@@ -1,5 +1,5 @@
 // ===== Config =====
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://mansik-santulan-score1.onrender.com";
 // The model's score is treated as roughly 0–10 for the gauge visual.
 // If your model's actual scale differs, adjust GAUGE_MIN / GAUGE_MAX below.
 const GAUGE_MIN = 0;
